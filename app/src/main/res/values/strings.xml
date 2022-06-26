@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RoadMapApps</string>
+    <string name="character_info">Name: %s\nid: %d</string>
 </resources>
