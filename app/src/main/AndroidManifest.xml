@@ -14,7 +14,7 @@
         android:theme="@style/Theme.RoadMapApps"
         tools:targetApi="31">
         <activity
-            android:name=".baseadapter.SpinnerWithBaseAdapterSample"
+            android:name=".DialogFragmentsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
